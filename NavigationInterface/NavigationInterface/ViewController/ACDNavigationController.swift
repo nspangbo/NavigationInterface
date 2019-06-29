@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ACDNavigationController.swift
 //  NavigationInterface
 //
 //  Created by nspangbo on 2019/6/29.
@@ -8,13 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ACDNavigationController: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
 
 }
-
